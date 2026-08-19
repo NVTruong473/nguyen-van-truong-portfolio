@@ -638,6 +638,44 @@ ul {
   justify-content: flex-end;
 }
 
+.contact-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.zalo-qr {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  margin-top: 18px;
+  padding: 10px 12px;
+  color: var(--muted);
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  transition:
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    transform 180ms ease;
+}
+
+.zalo-qr:hover {
+  border-color: rgba(15, 94, 122, 0.28);
+  box-shadow: 0 12px 28px rgba(23, 32, 42, 0.08);
+  transform: translateY(-2px);
+}
+
+.zalo-qr img {
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
 @media (max-width: 980px) {
   .hero,
   .split,
@@ -664,6 +702,10 @@ ul {
 
   .contact-actions {
     justify-content: flex-start;
+  }
+
+  .contact-panel {
+    align-items: flex-start;
   }
 }
 
@@ -721,6 +763,11 @@ ul {
 
   .button {
     width: 100%;
+  }
+
+  .zalo-qr {
+    width: 100%;
+    justify-content: center;
   }
 }
 
