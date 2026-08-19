@@ -46,7 +46,7 @@ const translations = {
       [".signal-strip div:nth-child(3) strong", "Growth edge"],
       [
         ".signal-strip div:nth-child(3) span",
-        "Strengthening Selenium, Java automation, C#/.NET and production data tooling",
+        "Java and web fundamentals; ready to learn Selenium, C#/.NET and role-specific tooling",
       ],
       [".signal-strip div:nth-child(4) strong", "Availability"],
       [
@@ -111,7 +111,7 @@ const translations = {
       [".skill-list article:nth-child(4) h3", "QA and testing readiness"],
       [
         ".skill-list article:nth-child(4) p",
-        "Manual test cases, smoke tests, API/UI validation, bug reproduction, test notes; currently strengthening Selenium and .NET basics.",
+        "Manual test cases, smoke tests, API/UI validation and bug reproduction; Java foundation plus HTML, PHP and JavaScript basics, with readiness to learn Selenium and C#/.NET when needed.",
       ],
       ["#fit .eyebrow", "Role fit"],
       ["#fit h2", "Where I can contribute now"],
@@ -133,7 +133,7 @@ const translations = {
       [".fit-grid article:nth-child(4) h3", "QA Automation Intern"],
       [
         ".fit-grid article:nth-child(4) p",
-        "Ready for manual and automation testing support, while continuing to build Selenium, Java and .NET depth.",
+        "Ready for manual and automation testing support, using Java and web fundamentals while learning role-specific test tools under guidance.",
       ],
       [".compact .eyebrow", "Education and availability"],
       [".compact h2", "Practical details"],
@@ -198,7 +198,7 @@ const translations = {
       [".signal-strip div:nth-child(3) strong", "Đang củng cố"],
       [
         ".signal-strip div:nth-child(3) span",
-        "Selenium, Java automation, C#/.NET và công cụ dữ liệu ở môi trường production",
+        "Nền tảng Java và web; sẵn sàng học Selenium, C#/.NET và công cụ riêng theo yêu cầu vị trí",
       ],
       [".signal-strip div:nth-child(4) strong", "Sẵn sàng"],
       [
@@ -263,7 +263,7 @@ const translations = {
       [".skill-list article:nth-child(4) h3", "QA và testing readiness"],
       [
         ".skill-list article:nth-child(4) p",
-        "Manual test cases, smoke tests, API/UI validation, tái lập lỗi, test notes; đang củng cố Selenium và .NET cơ bản.",
+        "Manual test cases, smoke tests, API/UI validation và tái lập lỗi; có nền tảng Java cùng HTML, PHP, JavaScript cơ bản, sẵn sàng học Selenium và C#/.NET khi công việc cần.",
       ],
       ["#fit .eyebrow", "Độ phù hợp"],
       ["#fit h2", "Tôi có thể đóng góp ở đâu ngay hiện tại"],
@@ -285,7 +285,7 @@ const translations = {
       [".fit-grid article:nth-child(4) h3", "QA Automation Intern"],
       [
         ".fit-grid article:nth-child(4) p",
-        "Sẵn sàng hỗ trợ manual/automation testing, đồng thời tiếp tục xây chiều sâu Selenium, Java và .NET.",
+        "Sẵn sàng hỗ trợ manual/automation testing, tận dụng nền tảng Java và web, đồng thời học thêm test tools theo hướng dẫn của team.",
       ],
       [".compact .eyebrow", "Học vấn và sẵn sàng làm việc"],
       [".compact h2", "Thông tin thực tế"],
