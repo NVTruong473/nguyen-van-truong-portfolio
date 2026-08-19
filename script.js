@@ -46,7 +46,7 @@ const translations = {
       [".signal-strip div:nth-child(3) strong", "Growth edge"],
       [
         ".signal-strip div:nth-child(3) span",
-        "Java and web fundamentals; ready to learn Selenium, C#/.NET and role-specific tooling",
+        "Solid Java/OOP foundation; strengthening JavaScript and ready to learn role-specific tooling",
       ],
       [".signal-strip div:nth-child(4) strong", "Availability"],
       [
@@ -96,7 +96,7 @@ const translations = {
       [".skill-list article:nth-child(1) h3", "Programming and web fundamentals"],
       [
         ".skill-list article:nth-child(1) p",
-        "Python, Java, SQL basics, JavaScript, PHP, HTML/CSS, C/C++; plus FastAPI, REST API, Pydantic, Git/GitHub and environment setup.",
+        "Python, Java/OOP, SQL basics, PHP, HTML/CSS, C/C++; JavaScript fundamentals under active strengthening; plus FastAPI, REST API, Pydantic, Git/GitHub and environment setup.",
       ],
       [".skill-list article:nth-child(2) h3", "AI and computer vision"],
       [
@@ -111,7 +111,7 @@ const translations = {
       [".skill-list article:nth-child(4) h3", "QA and testing readiness"],
       [
         ".skill-list article:nth-child(4) p",
-        "Manual test cases, smoke tests, API/UI validation and bug reproduction; Java foundation plus HTML, PHP and JavaScript basics, with readiness to learn Selenium and C#/.NET when needed.",
+        "Manual test cases, smoke tests, API/UI validation and bug reproduction; solid Java/OOP foundation plus HTML/PHP basics, with readiness to strengthen JavaScript, Selenium and C#/.NET when needed.",
       ],
       [".task-map .eyebrow", "Tool-to-task map"],
       [".task-map h2", "How I choose tools for real work"],
@@ -131,13 +131,13 @@ const translations = {
       [".task-grid article:nth-child(3) h3", "Turn requirements into usable prototypes"],
       [
         ".task-grid article:nth-child(3) p",
-        "JavaScript, HTML/CSS, PHP basics, React/TypeScript practice, Supabase/PostgreSQL, REST API and GitHub Pages deployment.",
+        "HTML/CSS, PHP basics, JavaScript under active strengthening, React/TypeScript practice, Supabase/PostgreSQL, REST API and GitHub Pages deployment.",
       ],
       [".task-grid article:nth-child(4) span", "Testing / QA"],
       [".task-grid article:nth-child(4) h3", "Check behavior and document issues"],
       [
         ".task-grid article:nth-child(4) p",
-        "Manual test cases, smoke tests, API/UI validation, bug reproduction notes and Git; Java foundation with readiness to learn Selenium and C#/.NET.",
+        "Manual test cases, smoke tests, API/UI validation, bug reproduction notes and Git; solid Java/OOP foundation with readiness to learn Selenium and C#/.NET.",
       ],
       [".learning-system .eyebrow", "Learning system"],
       [".learning-system h2", "I learn fastest when the work has real constraints."],
@@ -185,7 +185,7 @@ const translations = {
       [".fit-grid article:nth-child(4) h3", "QA Automation Intern"],
       [
         ".fit-grid article:nth-child(4) p",
-        "Ready for manual and automation testing support, using Java and web fundamentals while learning role-specific test tools under guidance.",
+        "Ready for manual and automation testing support, using Java/OOP foundation while learning role-specific test tools under guidance.",
       ],
       [".compact .eyebrow", "Education and availability"],
       [".compact h2", "Practical details"],
@@ -250,7 +250,7 @@ const translations = {
       [".signal-strip div:nth-child(3) strong", "Đang củng cố"],
       [
         ".signal-strip div:nth-child(3) span",
-        "Nền tảng Java và web; sẵn sàng học Selenium, C#/.NET và công cụ riêng theo yêu cầu vị trí",
+        "Nền tảng Java/OOP ổn; đang củng cố JavaScript và sẵn sàng học công cụ riêng theo yêu cầu vị trí",
       ],
       [".signal-strip div:nth-child(4) strong", "Sẵn sàng"],
       [
@@ -300,7 +300,7 @@ const translations = {
       [".skill-list article:nth-child(1) h3", "Lập trình và nền tảng web"],
       [
         ".skill-list article:nth-child(1) p",
-        "Python, Java, SQL cơ bản, JavaScript, PHP, HTML/CSS, C/C++; cùng FastAPI, REST API, Pydantic, Git/GitHub và setup môi trường.",
+        "Python, Java/OOP, SQL cơ bản, PHP, HTML/CSS, C/C++; JavaScript đang củng cố thêm khi cần; cùng FastAPI, REST API, Pydantic, Git/GitHub và setup môi trường.",
       ],
       [".skill-list article:nth-child(2) h3", "AI và computer vision"],
       [
@@ -315,7 +315,7 @@ const translations = {
       [".skill-list article:nth-child(4) h3", "QA và testing readiness"],
       [
         ".skill-list article:nth-child(4) p",
-        "Manual test cases, smoke tests, API/UI validation và tái lập lỗi; có nền tảng Java cùng HTML, PHP, JavaScript cơ bản, sẵn sàng học Selenium và C#/.NET khi công việc cần.",
+        "Manual test cases, smoke tests, API/UI validation và tái lập lỗi; nền tảng Java/OOP ổn, có HTML/PHP cơ bản, sẵn sàng củng cố JavaScript, Selenium và C#/.NET khi công việc cần.",
       ],
       [".task-map .eyebrow", "Công cụ theo task"],
       [".task-map h2", "Tôi dùng công cụ nào cho từng việc"],
@@ -335,13 +335,13 @@ const translations = {
       [".task-grid article:nth-child(3) h3", "Biến yêu cầu thành mẫu thử dùng được"],
       [
         ".task-grid article:nth-child(3) p",
-        "JavaScript, HTML/CSS, PHP cơ bản, thực hành React/TypeScript, Supabase/PostgreSQL, REST API và triển khai bằng GitHub Pages.",
+        "HTML/CSS, PHP cơ bản, JavaScript đang củng cố, thực hành React/TypeScript, Supabase/PostgreSQL, REST API và triển khai bằng GitHub Pages.",
       ],
       [".task-grid article:nth-child(4) span", "Testing / QA"],
       [".task-grid article:nth-child(4) h3", "Kiểm tra hành vi và ghi nhận vấn đề"],
       [
         ".task-grid article:nth-child(4) p",
-        "Manual test cases, smoke tests, API/UI validation, ghi chú tái lập lỗi và Git; có nền tảng Java, sẵn sàng học Selenium và C#/.NET.",
+        "Manual test cases, smoke tests, API/UI validation, ghi chú tái lập lỗi và Git; nền tảng Java/OOP ổn, sẵn sàng học Selenium và C#/.NET.",
       ],
       [".learning-system .eyebrow", "Cách tôi học"],
       [".learning-system h2", "Tôi học nhanh nhất khi công việc có yêu cầu thật."],
@@ -389,7 +389,7 @@ const translations = {
       [".fit-grid article:nth-child(4) h3", "QA Automation Intern"],
       [
         ".fit-grid article:nth-child(4) p",
-        "Sẵn sàng hỗ trợ manual/automation testing, tận dụng nền tảng Java và web, đồng thời học thêm test tools theo hướng dẫn của team.",
+        "Sẵn sàng hỗ trợ manual/automation testing, tận dụng nền tảng Java/OOP và học thêm test tools theo hướng dẫn của team.",
       ],
       [".compact .eyebrow", "Học vấn và sẵn sàng làm việc"],
       [".compact h2", "Thông tin thực tế"],
