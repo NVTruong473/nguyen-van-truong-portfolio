@@ -93,10 +93,10 @@ const translations = {
       ],
       ["#skills .eyebrow", "Capability map"],
       ["#skills h2", "Skills grouped by recruiter use case"],
-      [".skill-list article:nth-child(1) h3", "Software and backend"],
+      [".skill-list article:nth-child(1) h3", "Programming and web fundamentals"],
       [
         ".skill-list article:nth-child(1) p",
-        "Python, Java academic foundation, C/C++, FastAPI, REST API, Pydantic, Git/GitHub, environment setup.",
+        "Python, Java, SQL basics, JavaScript, PHP, HTML/CSS, C/C++; plus FastAPI, REST API, Pydantic, Git/GitHub and environment setup.",
       ],
       [".skill-list article:nth-child(2) h3", "AI and computer vision"],
       [
@@ -112,6 +112,32 @@ const translations = {
       [
         ".skill-list article:nth-child(4) p",
         "Manual test cases, smoke tests, API/UI validation and bug reproduction; Java foundation plus HTML, PHP and JavaScript basics, with readiness to learn Selenium and C#/.NET when needed.",
+      ],
+      [".task-map .eyebrow", "Tool-to-task map"],
+      [".task-map h2", "How I choose tools for real work"],
+      [".task-grid article:nth-child(1) span", "AI Agent / RAG"],
+      [".task-grid article:nth-child(1) h3", "Retrieve, summarize and evaluate answers"],
+      [
+        ".task-grid article:nth-child(1) p",
+        "Python, FAISS, Sentence Transformers, LLaMA, FastAPI; learning LangChain and Microsoft Copilot Studio for agent workflows.",
+      ],
+      [".task-grid article:nth-child(2) span", "Data analysis"],
+      [".task-grid article:nth-child(2) h3", "Clean, query and report data"],
+      [
+        ".task-grid article:nth-child(2) p",
+        "SQL basics, Pandas, NumPy, PySpark, Excel and PowerPoint for preprocessing, grouping, aggregation and stakeholder-ready reporting.",
+      ],
+      [".task-grid article:nth-child(3) span", "Web / API"],
+      [".task-grid article:nth-child(3) h3", "Turn requirements into usable prototypes"],
+      [
+        ".task-grid article:nth-child(3) p",
+        "JavaScript, HTML/CSS, PHP basics, React/TypeScript practice, Supabase/PostgreSQL, REST API and GitHub Pages deployment.",
+      ],
+      [".task-grid article:nth-child(4) span", "Testing / QA"],
+      [".task-grid article:nth-child(4) h3", "Check behavior and document issues"],
+      [
+        ".task-grid article:nth-child(4) p",
+        "Manual test cases, smoke tests, API/UI validation, bug reproduction notes and Git; Java foundation with readiness to learn Selenium and C#/.NET.",
       ],
       ["#fit .eyebrow", "Role fit"],
       ["#fit h2", "Where I can contribute now"],
@@ -245,10 +271,10 @@ const translations = {
       ],
       ["#skills .eyebrow", "Bản đồ năng lực"],
       ["#skills h2", "Kỹ năng nhóm theo góc nhìn nhà tuyển dụng"],
-      [".skill-list article:nth-child(1) h3", "Phần mềm và backend"],
+      [".skill-list article:nth-child(1) h3", "Lập trình và nền tảng web"],
       [
         ".skill-list article:nth-child(1) p",
-        "Python, nền tảng học thuật Java, C/C++, FastAPI, REST API, Pydantic, Git/GitHub, setup môi trường.",
+        "Python, Java, SQL cơ bản, JavaScript, PHP, HTML/CSS, C/C++; cùng FastAPI, REST API, Pydantic, Git/GitHub và setup môi trường.",
       ],
       [".skill-list article:nth-child(2) h3", "AI và computer vision"],
       [
@@ -264,6 +290,32 @@ const translations = {
       [
         ".skill-list article:nth-child(4) p",
         "Manual test cases, smoke tests, API/UI validation và tái lập lỗi; có nền tảng Java cùng HTML, PHP, JavaScript cơ bản, sẵn sàng học Selenium và C#/.NET khi công việc cần.",
+      ],
+      [".task-map .eyebrow", "Công cụ theo task"],
+      [".task-map h2", "Tôi dùng công cụ nào cho từng việc"],
+      [".task-grid article:nth-child(1) span", "AI Agent / RAG"],
+      [".task-grid article:nth-child(1) h3", "Truy xuất, tóm tắt và đánh giá câu trả lời"],
+      [
+        ".task-grid article:nth-child(1) p",
+        "Python, FAISS, Sentence Transformers, LLaMA, FastAPI; đang học LangChain và Microsoft Copilot Studio cho workflow AI Agent.",
+      ],
+      [".task-grid article:nth-child(2) span", "Phân tích dữ liệu"],
+      [".task-grid article:nth-child(2) h3", "Làm sạch, truy vấn và báo cáo dữ liệu"],
+      [
+        ".task-grid article:nth-child(2) p",
+        "SQL cơ bản, Pandas, NumPy, PySpark, Excel và PowerPoint cho tiền xử lý, nhóm dữ liệu, tổng hợp và báo cáo dễ trình bày cho stakeholder.",
+      ],
+      [".task-grid article:nth-child(3) span", "Web / API"],
+      [".task-grid article:nth-child(3) h3", "Biến yêu cầu thành mẫu thử dùng được"],
+      [
+        ".task-grid article:nth-child(3) p",
+        "JavaScript, HTML/CSS, PHP cơ bản, thực hành React/TypeScript, Supabase/PostgreSQL, REST API và triển khai bằng GitHub Pages.",
+      ],
+      [".task-grid article:nth-child(4) span", "Testing / QA"],
+      [".task-grid article:nth-child(4) h3", "Kiểm tra hành vi và ghi nhận vấn đề"],
+      [
+        ".task-grid article:nth-child(4) p",
+        "Manual test cases, smoke tests, API/UI validation, ghi chú tái lập lỗi và Git; có nền tảng Java, sẵn sàng học Selenium và C#/.NET.",
       ],
       ["#fit .eyebrow", "Độ phù hợp"],
       ["#fit h2", "Tôi có thể đóng góp ở đâu ngay hiện tại"],
