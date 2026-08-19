@@ -214,6 +214,7 @@ const translations = {
         "#contact div:first-child > p:not(.eyebrow)",
         "For each application, I can provide a tailored CV version aligned with the job description.",
       ],
+      [".contact-actions .secondary", "Phone / Zalo: +84 915 577 490"],
     ],
   },
   vi: {
@@ -431,6 +432,7 @@ const translations = {
         "#contact div:first-child > p:not(.eyebrow)",
         "Với từng vị trí ứng tuyển, tôi có thể cung cấp bản CV đã điều chỉnh theo mô tả công việc.",
       ],
+      [".contact-actions .secondary", "Điện thoại / Zalo: +84 915 577 490"],
     ],
   },
 };
