@@ -638,6 +638,19 @@ ul {
   justify-content: flex-end;
 }
 
+.site-footer {
+  padding: 24px 7vw 34px;
+  color: var(--muted);
+  background: #ffffff;
+  border-top: 1px solid var(--line);
+  text-align: center;
+}
+
+.site-footer p {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
 .contact-panel {
   display: flex;
   flex-direction: column;

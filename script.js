@@ -216,6 +216,7 @@ const translations = {
       ],
       [".contact-actions .secondary", "Phone / Zalo: +84 915 577 490"],
       [".zalo-qr span", "Zalo QR"],
+      [".site-footer p", "Thanks for taking the time to visit. Wishing you a productive and positive day."],
     ],
   },
   vi: {
@@ -435,6 +436,7 @@ const translations = {
       ],
       [".contact-actions .secondary", "Điện thoại / Zalo: +84 915 577 490"],
       [".zalo-qr span", "Mã QR Zalo"],
+      [".site-footer p", "Cảm ơn bạn đã ghé qua. Chúc bạn một ngày nhiều năng lượng và thật nhiều điều tích cực."],
     ],
   },
 };
