@@ -106,7 +106,7 @@ const translations = {
       [".skill-list article:nth-child(3) h3", "Data and analytics"],
       [
         ".skill-list article:nth-child(3) p",
-        "SQL basics, Pandas, NumPy, PySpark, preprocessing, grouping, aggregation, retrieval workflows and reporting.",
+        "SQL basics, Pandas, NumPy, PySpark, Power BI from MIS coursework, basic ERP concepts, preprocessing, aggregation and reporting.",
       ],
       [".skill-list article:nth-child(4) h3", "QA and testing readiness"],
       [
@@ -125,7 +125,7 @@ const translations = {
       [".task-grid article:nth-child(2) h3", "Clean, query and report data"],
       [
         ".task-grid article:nth-child(2) p",
-        "SQL basics, Pandas, NumPy, PySpark, Excel and PowerPoint for preprocessing, grouping, aggregation and stakeholder-ready reporting.",
+        "SQL basics, Pandas, NumPy, PySpark, Excel, PowerPoint and Power BI practice from MIS coursework; basic ERP awareness for business-process context.",
       ],
       [".task-grid article:nth-child(3) span", "Web / API"],
       [".task-grid article:nth-child(3) h3", "Turn requirements into usable prototypes"],
@@ -133,10 +133,16 @@ const translations = {
         ".task-grid article:nth-child(3) p",
         "HTML/CSS, PHP basics, JavaScript under active strengthening, React/TypeScript practice, Supabase/PostgreSQL, REST API and GitHub Pages deployment.",
       ],
-      [".task-grid article:nth-child(4) span", "Testing / QA"],
-      [".task-grid article:nth-child(4) h3", "Check behavior and document issues"],
+      [".task-grid article:nth-child(4) span", "Business systems"],
+      [".task-grid article:nth-child(4) h3", "Understand process before choosing tools"],
       [
         ".task-grid article:nth-child(4) p",
+        "MIS coursework, Power BI exposure and basic ERP concepts; ready to relearn company-specific workflows, data fields and reporting logic.",
+      ],
+      [".task-grid article:nth-child(5) span", "Testing / QA"],
+      [".task-grid article:nth-child(5) h3", "Check behavior and document issues"],
+      [
+        ".task-grid article:nth-child(5) p",
         "Manual test cases, smoke tests, API/UI validation, bug reproduction notes and Git; solid Java/OOP foundation with readiness to learn Selenium and C#/.NET.",
       ],
       [".learning-system .eyebrow", "Learning system"],
@@ -200,7 +206,10 @@ const translations = {
       ],
       ["#contact .eyebrow", "Contact"],
       ["#contact h2", "Let's discuss where I can contribute."],
-      ["#contact p", "For each application, I can provide a tailored CV version aligned with the job description."],
+      [
+        "#contact div:first-child > p:not(.eyebrow)",
+        "For each application, I can provide a tailored CV version aligned with the job description.",
+      ],
     ],
   },
   vi: {
@@ -310,7 +319,7 @@ const translations = {
       [".skill-list article:nth-child(3) h3", "Dữ liệu và phân tích"],
       [
         ".skill-list article:nth-child(3) p",
-        "SQL cơ bản, Pandas, NumPy, PySpark, tiền xử lý, nhóm dữ liệu, tổng hợp, quy trình truy xuất thông tin và báo cáo.",
+        "SQL cơ bản, Pandas, NumPy, PySpark, từng dùng Power BI trong môn MIS, hiểu khái niệm ERP cơ bản, tiền xử lý, tổng hợp và báo cáo.",
       ],
       [".skill-list article:nth-child(4) h3", "QA và testing readiness"],
       [
@@ -329,7 +338,7 @@ const translations = {
       [".task-grid article:nth-child(2) h3", "Làm sạch, truy vấn và báo cáo dữ liệu"],
       [
         ".task-grid article:nth-child(2) p",
-        "SQL cơ bản, Pandas, NumPy, PySpark, Excel và PowerPoint cho tiền xử lý, nhóm dữ liệu, tổng hợp và báo cáo dễ trình bày cho stakeholder.",
+        "SQL cơ bản, Pandas, NumPy, PySpark, Excel, PowerPoint và Power BI đã dùng trong môn MIS; hiểu ERP ở mức khái niệm để nắm bối cảnh quy trình nghiệp vụ.",
       ],
       [".task-grid article:nth-child(3) span", "Web / API"],
       [".task-grid article:nth-child(3) h3", "Biến yêu cầu thành mẫu thử dùng được"],
@@ -337,10 +346,16 @@ const translations = {
         ".task-grid article:nth-child(3) p",
         "HTML/CSS, PHP cơ bản, JavaScript đang củng cố, thực hành React/TypeScript, Supabase/PostgreSQL, REST API và triển khai bằng GitHub Pages.",
       ],
-      [".task-grid article:nth-child(4) span", "Testing / QA"],
-      [".task-grid article:nth-child(4) h3", "Kiểm tra hành vi và ghi nhận vấn đề"],
+      [".task-grid article:nth-child(4) span", "Business systems"],
+      [".task-grid article:nth-child(4) h3", "Hiểu quy trình trước khi chọn công cụ"],
       [
         ".task-grid article:nth-child(4) p",
+        "Môn MIS, từng dùng Power BI và hiểu ERP ở mức khái niệm; sẵn sàng học lại workflow, trường dữ liệu và logic báo cáo riêng của doanh nghiệp.",
+      ],
+      [".task-grid article:nth-child(5) span", "Testing / QA"],
+      [".task-grid article:nth-child(5) h3", "Kiểm tra hành vi và ghi nhận vấn đề"],
+      [
+        ".task-grid article:nth-child(5) p",
         "Manual test cases, smoke tests, API/UI validation, ghi chú tái lập lỗi và Git; nền tảng Java/OOP ổn, sẵn sàng học Selenium và C#/.NET.",
       ],
       [".learning-system .eyebrow", "Cách tôi học"],
@@ -404,7 +419,10 @@ const translations = {
       ],
       ["#contact .eyebrow", "Liên hệ"],
       ["#contact h2", "Trao đổi thêm về nơi tôi có thể đóng góp."],
-      ["#contact p", "Với từng vị trí ứng tuyển, tôi có thể cung cấp bản CV đã điều chỉnh theo mô tả công việc."],
+      [
+        "#contact div:first-child > p:not(.eyebrow)",
+        "Với từng vị trí ứng tuyển, tôi có thể cung cấp bản CV đã điều chỉnh theo mô tả công việc.",
+      ],
     ],
   },
 };
