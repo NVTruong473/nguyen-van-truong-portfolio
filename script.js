@@ -139,6 +139,32 @@ const translations = {
         ".task-grid article:nth-child(4) p",
         "Manual test cases, smoke tests, API/UI validation, bug reproduction notes and Git; Java foundation with readiness to learn Selenium and C#/.NET.",
       ],
+      [".learning-system .eyebrow", "Learning system"],
+      [".learning-system h2", "I learn fastest when the work has real constraints."],
+      [
+        ".learning-lead > p:last-child",
+        "I do not position myself as someone who already knows every tool. My value is a practical learning loop: understand the expected output, build a small version, test it, document what changed and improve with feedback.",
+      ],
+      [".learning-grid article:nth-child(1) h3", "Clarify the task"],
+      [
+        ".learning-grid article:nth-child(1) p",
+        "Break down requirements, inputs, expected outputs, constraints and acceptance criteria before coding.",
+      ],
+      [".learning-grid article:nth-child(2) h3", "Build a small proof"],
+      [
+        ".learning-grid article:nth-child(2) p",
+        "Use the closest language or tool I know first, then learn the role-specific stack needed to finish properly.",
+      ],
+      [".learning-grid article:nth-child(3) h3", "Test and document"],
+      [
+        ".learning-grid article:nth-child(3) p",
+        "Check behavior with examples, record issues clearly and keep enough notes for another teammate to follow.",
+      ],
+      [".learning-grid article:nth-child(4) h3", "Improve with feedback"],
+      [
+        ".learning-grid article:nth-child(4) p",
+        "Ask sharper questions after trying, then refine the solution until it matches the team's standard.",
+      ],
       ["#fit .eyebrow", "Role fit"],
       ["#fit h2", "Where I can contribute now"],
       [".fit-grid article:nth-child(1) h3", "AI / Computer Vision Intern"],
@@ -316,6 +342,32 @@ const translations = {
       [
         ".task-grid article:nth-child(4) p",
         "Manual test cases, smoke tests, API/UI validation, ghi chú tái lập lỗi và Git; có nền tảng Java, sẵn sàng học Selenium và C#/.NET.",
+      ],
+      [".learning-system .eyebrow", "Cách tôi học"],
+      [".learning-system h2", "Tôi học nhanh nhất khi công việc có yêu cầu thật."],
+      [
+        ".learning-lead > p:last-child",
+        "Tôi không định vị mình là người đã biết mọi công cụ. Giá trị của tôi nằm ở vòng lặp học thực tế: hiểu đầu ra cần đạt, dựng bản nhỏ, kiểm thử, ghi lại thay đổi và cải thiện từ phản hồi.",
+      ],
+      [".learning-grid article:nth-child(1) h3", "Làm rõ task"],
+      [
+        ".learning-grid article:nth-child(1) p",
+        "Tách yêu cầu thành input, output mong muốn, ràng buộc và tiêu chí đạt trước khi bắt đầu code.",
+      ],
+      [".learning-grid article:nth-child(2) h3", "Dựng bản nhỏ trước"],
+      [
+        ".learning-grid article:nth-child(2) p",
+        "Dùng ngôn ngữ hoặc công cụ gần nhất mình biết để tạo proof, sau đó học stack riêng của vị trí để hoàn thiện đúng chuẩn.",
+      ],
+      [".learning-grid article:nth-child(3) h3", "Kiểm thử và ghi chép"],
+      [
+        ".learning-grid article:nth-child(3) p",
+        "Kiểm tra hành vi bằng ví dụ cụ thể, ghi nhận lỗi rõ ràng và giữ đủ note để teammate khác có thể theo dõi.",
+      ],
+      [".learning-grid article:nth-child(4) h3", "Cải thiện từ feedback"],
+      [
+        ".learning-grid article:nth-child(4) p",
+        "Sau khi đã tự thử, đặt câu hỏi sắc hơn rồi refine giải pháp cho đến khi khớp tiêu chuẩn của team.",
       ],
       ["#fit .eyebrow", "Độ phù hợp"],
       ["#fit h2", "Tôi có thể đóng góp ở đâu ngay hiện tại"],

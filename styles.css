@@ -512,6 +512,59 @@ ul {
   color: var(--muted);
 }
 
+.learning-system {
+  display: grid;
+  grid-template-columns: minmax(0, 0.82fr) minmax(0, 1.18fr);
+  gap: 48px;
+  align-items: start;
+  background: #f9fbfd;
+}
+
+.learning-lead {
+  position: sticky;
+  top: 104px;
+}
+
+.learning-lead p:last-child {
+  max-width: 620px;
+  color: var(--muted);
+  font-size: 1.04rem;
+}
+
+.learning-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.learning-grid article {
+  display: grid;
+  grid-template-columns: 52px 1fr;
+  gap: 18px;
+  padding: 22px;
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.learning-grid span {
+  color: var(--green);
+  font-weight: 800;
+}
+
+.learning-grid h3,
+.learning-grid p {
+  grid-column: 2;
+}
+
+.learning-grid h3 {
+  margin-bottom: 6px;
+}
+
+.learning-grid p {
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
 .role-fit {
   background: #ffffff;
 }
@@ -580,9 +633,14 @@ ul {
 @media (max-width: 980px) {
   .hero,
   .split,
+  .learning-system,
   .compact,
   .contact-section {
     grid-template-columns: 1fr;
+  }
+
+  .learning-lead {
+    position: static;
   }
 
   .project-grid,
@@ -642,6 +700,15 @@ ul {
   .skill-list,
   .detail-grid {
     grid-template-columns: 1fr;
+  }
+
+  .learning-grid article {
+    grid-template-columns: 1fr;
+  }
+
+  .learning-grid h3,
+  .learning-grid p {
+    grid-column: auto;
   }
 
   .button {
