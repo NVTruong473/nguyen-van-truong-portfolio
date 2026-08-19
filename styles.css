@@ -82,6 +82,47 @@ nav a:hover {
   color: var(--accent);
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+}
+
+.language-switch {
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2px;
+  padding: 3px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.language-switch button {
+  min-width: 42px;
+  min-height: 30px;
+  padding: 0 9px;
+  color: var(--muted);
+  background: transparent;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.language-switch button.is-active {
+  color: #ffffff;
+  background: var(--accent);
+}
+
+.language-switch button:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
+}
+
 main {
   overflow: hidden;
 }
@@ -157,6 +198,13 @@ h3 {
   flex-wrap: wrap;
   gap: 12px;
   margin-top: 28px;
+}
+
+.cv-download-note {
+  max-width: 560px;
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .button {
@@ -522,6 +570,17 @@ ul {
     width: 100%;
     overflow-x: auto;
     padding-bottom: 2px;
+  }
+
+  .header-actions {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .language-switch {
+    align-self: flex-start;
   }
 
   .hero,
