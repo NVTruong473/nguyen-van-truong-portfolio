@@ -436,7 +436,7 @@ const translations = {
       ],
       [".contact-actions .secondary", "Điện thoại / Zalo: +84 915 577 490"],
       [".zalo-qr span", "Mã QR Zalo"],
-      [".site-footer p", "Cảm ơn bạn đã ghé qua. Chúc bạn một ngày nhiều năng lượng và thật nhiều điều tích cực."],
+      [".site-footer p", "Cảm ơn bạn đã ghé qua. Chúc bạn luôn giữ được tinh thần lạc quan, bình an và gặp nhiều điều tốt lành trong ngày hôm nay."],
     ],
   },
 };
