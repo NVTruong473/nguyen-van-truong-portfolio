@@ -531,6 +531,14 @@ ul {
   font-size: 1.04rem;
 }
 
+.supporting-proof {
+  margin-top: 18px;
+  padding-left: 14px;
+  color: var(--accent-dark) !important;
+  border-left: 3px solid var(--line);
+  font-size: 0.94rem !important;
+}
+
 .learning-grid {
   display: grid;
   gap: 14px;

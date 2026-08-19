@@ -149,6 +149,10 @@ const translations = {
       [".learning-system h2", "I learn fastest when the work has real constraints."],
       [
         ".learning-lead > p:last-child",
+        "Supporting proof: Codex Video Wizard, a small AI workflow and QA handoff workspace for documenting routes, tools, fallback rules and final checks.",
+      ],
+      [
+        ".learning-lead > p:not(.eyebrow):not(.supporting-proof)",
         "I do not position myself as someone who already knows every tool. My value is a practical learning loop: understand the expected output, build a small version, test it, document what changed and improve with feedback.",
       ],
       [".learning-grid article:nth-child(1) h3", "Clarify the task"],
@@ -362,6 +366,10 @@ const translations = {
       [".learning-system h2", "Tôi học nhanh nhất khi công việc có yêu cầu thật."],
       [
         ".learning-lead > p:last-child",
+        "Bằng chứng phụ: Codex Video Wizard, một workspace nhỏ về AI workflow và QA handoff để tài liệu hóa route, công cụ, quy tắc fallback và bước kiểm tra cuối.",
+      ],
+      [
+        ".learning-lead > p:not(.eyebrow):not(.supporting-proof)",
         "Tôi không định vị mình là người đã biết mọi công cụ. Giá trị của tôi nằm ở vòng lặp học thực tế: hiểu đầu ra cần đạt, dựng bản nhỏ, kiểm thử, ghi lại thay đổi và cải thiện từ phản hồi.",
       ],
       [".learning-grid article:nth-child(1) h3", "Làm rõ task"],
